@@ -8,7 +8,7 @@
 ## Data:-
 
 * We got dataset from [here](https://downloads.tatoeba.org/exports/) in which their are more than 94 lakh rows but we did not needed that much so after preprocessing we 
-have 6K for some languages.
+have 6K for some languages.To get prerpocessed data [visit](https://github.com/AdiShirsath/Language-Detection/tree/main/data)
 
 ## Model Training:-
 
