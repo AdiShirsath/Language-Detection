@@ -1,7 +1,5 @@
 # Language-Detection
 
-## Overview:-
-
 * This is Natural language processing (NLP) project to detect language from text using machine learning. this model can detect 
 **79** Languages.
 
