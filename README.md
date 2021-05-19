@@ -17,5 +17,5 @@ Model Training:-
 
 Predictions:-
 
-<img src="https://user-images.githubusercontent.com/75840165/118812474-c7822880-b8cb-11eb-813e-09545496bb8c.jpg" height=250 width=550>
-<img src="https://user-images.githubusercontent.com/75840165/118812582-e41e6080-b8cb-11eb-817a-aa7473643838.jpg" height=250 width=550>
+<img src="https://user-images.githubusercontent.com/75840165/118815668-0e255200-b8cf-11eb-907b-da2e4a30c3d6.jpg" height=250 width=550>
+<img src="https://user-images.githubusercontent.com/75840165/118815661-0bc2f800-b8cf-11eb-9aba-650a61aad6fc.jpg" height=250 width=550>
