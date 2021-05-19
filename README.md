@@ -10,7 +10,7 @@ have 6K for some languages.To get prerpocessed data [visit](https://github.com/A
 
 ## Model Training:-
 
-* First trained pipeline of Logistic Regressor with Tf*Idf vectorizer without any hyperparameters.
+* First trained pipeline of Logistic Regressor with Tf*Idf vectorizer without any hyperparameters got **85%** accuracy.
 * And then Tf*Idf with ngrams (1,3) means all bigram, trigrams and with analyzer as characters means model will train of characters not on words got **95%** accuracy.
 
 ## Predictions:-
