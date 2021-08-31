@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "detection";
+
+service LanguageDetection {
+    rpc GetPrediction (GetPredictionRequest) returns (GetPredictionResponse);
+}
+
+message GetPredictionRequest {
+    string Text = 1;
+}
+
+message GetPredictionResponse {
+    string Response = 1;
+}
