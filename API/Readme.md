@@ -12,11 +12,26 @@ This is a Language detection service.
 
 ## How to use:-
 1. Make sure you have [GO](https://golang.org/) and [protoc](https://github.com/protocolbuffers/protobuf/releases/latest) compiler is properly setup.
-2. Install twirp code generator- `go get -u github.com/verloop/twirpy/protoc-gen-twirpy`
-3. Generate code in generated dir using protoc- `protoc --twirpy_out=generated --python_out=generated detection.proto`
-4. Install - `pip install -r requirements.txt`
-5. Once we have all above setup run server.py file.
-6. Then run client.py. Can change requested text in this file.
+2. Install twirp code generator
+ ```
+ go get -u github.com/verloop/twirpy/protoc-gen-twirpy
+ ```
+3. Generate code in generated dir using protoc
+ ```
+ protoc --twirpy_out=generated --python_out=generated detection.proto
+ ```
+4. Install dependencies
+```
+pip install -r requirements.txt
+```
+5. Once we have all above setup run server.
+```
+python3 server.py
+```
+6. Check with local client
+```
+python3 client.py
+```
 
 
 ## Demo
