@@ -1,6 +1,7 @@
 # Language Detection Twirp Service
 
 This is a Language detection service. 
+> For ML-model training and other information about data please- [visit](https://github.com/AdiShirsath/Language-Detection)
 
 ## How it works:-
 1. Server receives string request from client.
@@ -8,7 +9,6 @@ This is a Language detection service.
 3. Server will return Name of language to client.
 
 
-> For ML-model training and other information about data please- [visit](https://github.com/AdiShirsath/Language-Detection)
 
 ## How to use:-
 1. Make sure you have [GO](https://golang.org/) and [protoc](https://github.com/protocolbuffers/protobuf/releases/latest) compiler is properly setup.
