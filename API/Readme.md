@@ -1,6 +1,12 @@
 # Language Detection Twirp Service
 
-This is a Language detection service. When server receives request from client it will return response. Response will be name of language of the text.
+This is a Language detection service. 
+
+## How it works:-
+1. Server receives string request from client.
+2. By using Machine learning model we get language of the text.
+3. Server will return Name of language to client.
+
 
 > For ML-model training and other information about data please- [visit](https://github.com/AdiShirsath/Language-Detection)
 
